@@ -1,0 +1,139 @@
+
+spider_human.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/human/arm_1
+  rotate: true
+  xy: 479, 210
+  size: 100, 121
+  orig: 102, 123
+  offset: 1, 1
+  index: -1
+images/human/arm_2
+  rotate: true
+  xy: 635, 410
+  size: 93, 202
+  orig: 95, 204
+  offset: 1, 1
+  index: -1
+images/human/body
+  rotate: true
+  xy: 2, 76
+  size: 176, 316
+  orig: 178, 318
+  offset: 1, 1
+  index: -1
+images/human/foot_L
+  rotate: true
+  xy: 814, 339
+  size: 69, 58
+  orig: 71, 60
+  offset: 1, 1
+  index: -1
+images/human/foot_R
+  rotate: false
+  xy: 874, 354
+  size: 63, 60
+  orig: 65, 62
+  offset: 1, 1
+  index: -1
+images/human/head
+  rotate: false
+  xy: 2, 254
+  size: 355, 249
+  orig: 357, 251
+  offset: 1, 1
+  index: -1
+images/human/leg-1-3
+  rotate: true
+  xy: 839, 416
+  size: 87, 180
+  orig: 89, 182
+  offset: 1, 1
+  index: -1
+images/human/leg-2-2
+  rotate: false
+  xy: 479, 359
+  size: 154, 144
+  orig: 156, 146
+  offset: 1, 1
+  index: -1
+images/human/leg-2-2-x
+  rotate: true
+  xy: 2, 2
+  size: 46, 150
+  orig: 48, 152
+  offset: 1, 1
+  index: -1
+images/human/leg-2-3
+  rotate: true
+  xy: 320, 93
+  size: 159, 102
+  orig: 161, 104
+  offset: 1, 1
+  index: -1
+images/human/leg-2-3-x
+  rotate: true
+  xy: 2, 50
+  size: 24, 208
+  orig: 26, 210
+  offset: 1, 1
+  index: -1
+images/human/leg1-1
+  rotate: true
+  xy: 359, 271
+  size: 27, 66
+  orig: 29, 68
+  offset: 1, 1
+  index: -1
+images/human/leg1-2
+  rotate: false
+  xy: 635, 324
+  size: 177, 84
+  orig: 179, 86
+  offset: 1, 1
+  index: -1
+images/human/leg1_L
+  rotate: false
+  xy: 359, 300
+  size: 118, 203
+  orig: 120, 205
+  offset: 1, 1
+  index: -1
+images/human/leg1_R
+  rotate: true
+  xy: 325, 25
+  size: 66, 93
+  orig: 68, 95
+  offset: 1, 1
+  index: -1
+images/human/leg2
+  rotate: false
+  xy: 154, 12
+  size: 41, 36
+  orig: 43, 38
+  offset: 1, 1
+  index: -1
+images/human/leg2-x
+  rotate: false
+  xy: 602, 256
+  size: 7, 54
+  orig: 9, 56
+  offset: 1, 1
+  index: -1
+images/human/leg2_L
+  rotate: true
+  xy: 479, 312
+  size: 45, 136
+  orig: 47, 138
+  offset: 1, 1
+  index: -1
+images/human/leg2_R
+  rotate: true
+  xy: 212, 7
+  size: 67, 111
+  orig: 69, 113
+  offset: 1, 1
+  index: -1

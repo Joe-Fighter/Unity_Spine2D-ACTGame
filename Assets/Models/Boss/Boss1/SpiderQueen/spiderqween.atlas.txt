@@ -1,0 +1,263 @@
+
+spiderqween.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm2
+  rotate: true
+  xy: 943, 823
+  size: 195, 62
+  orig: 197, 64
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 418, 2
+  size: 355, 249
+  orig: 357, 251
+  offset: 1, 1
+  index: -1
+leg1-1
+  rotate: false
+  xy: 943, 416
+  size: 57, 96
+  orig: 59, 98
+  offset: 1, 1
+  index: -1
+leg1-1 wura
+  rotate: true
+  xy: 943, 622
+  size: 93, 65
+  orig: 95, 67
+  offset: 1, 1
+  index: -1
+leg1-2
+  rotate: false
+  xy: 775, 22
+  size: 227, 225
+  orig: 229, 227
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: false
+  xy: 943, 249
+  size: 45, 83
+  orig: 47, 85
+  offset: 1, 1
+  index: -1
+leg2 wura
+  rotate: false
+  xy: 943, 334
+  size: 52, 80
+  orig: 54, 82
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 943, 514
+  size: 53, 106
+  orig: 58, 120
+  offset: 1, 7
+  index: -1
+leg3 wura
+  rotate: false
+  xy: 943, 717
+  size: 62, 104
+  orig: 72, 111
+  offset: 1, 2
+  index: -1
+leg3-3 wura
+  rotate: true
+  xy: 2, 21
+  size: 230, 414
+  orig: 232, 416
+  offset: 1, 1
+  index: -1
+spiderqween-def_start_8
+  rotate: false
+  xy: 2, 253
+  size: 939, 765
+  orig: 1234, 848
+  offset: 269, 45
+  index: -1
+
+spiderqween2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm wura
+  rotate: true
+  xy: 931, 51
+  size: 107, 91
+  orig: 110, 94
+  offset: 2, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 254
+  size: 835, 759
+  orig: 837, 761
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 931, 2
+  size: 47, 79
+  orig: 139, 209
+  offset: 43, 73
+  index: -1
+face1
+  rotate: true
+  xy: 967, 446
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 967, 402
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+leg-2-2 wura
+  rotate: false
+  xy: 839, 803
+  size: 174, 210
+  orig: 181, 213
+  offset: 6, 2
+  index: -1
+leg-2-3
+  rotate: true
+  xy: 656, 160
+  size: 92, 320
+  orig: 94, 322
+  offset: 1, 1
+  index: -1
+leg-2-3 wura
+  rotate: false
+  xy: 839, 490
+  size: 134, 311
+  orig: 136, 313
+  offset: 1, 1
+  index: -1
+leg1-2 wura
+  rotate: true
+  xy: 656, 17
+  size: 141, 273
+  orig: 143, 275
+  offset: 1, 1
+  index: -1
+leg3-2 wura
+  rotate: false
+  xy: 839, 264
+  size: 126, 224
+  orig: 128, 226
+  offset: 1, 1
+  index: -1
+leg4-2
+  rotate: true
+  xy: 2, 22
+  size: 230, 324
+  orig: 232, 326
+  offset: 1, 1
+  index: -1
+leg4-2 wura
+  rotate: true
+  xy: 328, 29
+  size: 223, 326
+  orig: 225, 328
+  offset: 1, 1
+  index: -1
+
+spiderqween3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 222, 17
+  size: 83, 111
+  orig: 84, 116
+  offset: 0, 4
+  index: -1
+arm2 wura
+  rotate: false
+  xy: 489, 349
+  size: 169, 124
+  orig: 171, 126
+  offset: 1, 1
+  index: -1
+leg-1-3
+  rotate: true
+  xy: 489, 475
+  size: 115, 287
+  orig: 117, 289
+  offset: 1, 1
+  index: -1
+leg-1-3 wura
+  rotate: true
+  xy: 286, 331
+  size: 224, 201
+  orig: 226, 203
+  offset: 1, 1
+  index: -1
+leg-2-2
+  rotate: false
+  xy: 286, 136
+  size: 192, 193
+  orig: 211, 199
+  offset: 18, 5
+  index: -1
+leg3-2
+  rotate: true
+  xy: 2, 2
+  size: 126, 218
+  orig: 128, 220
+  offset: 1, 1
+  index: -1
+leg3-3
+  rotate: false
+  xy: 752, 595
+  size: 190, 427
+  orig: 192, 429
+  offset: 1, 1
+  index: -1
+leg4-1
+  rotate: true
+  xy: 778, 492
+  size: 101, 125
+  orig: 105, 127
+  offset: 3, 1
+  index: -1
+leg4-1 wura
+  rotate: false
+  xy: 660, 350
+  size: 103, 123
+  orig: 107, 125
+  offset: 3, 1
+  index: -1
+leg4-3
+  rotate: false
+  xy: 475, 592
+  size: 275, 430
+  orig: 277, 432
+  offset: 1, 1
+  index: -1
+leg4-3 wura
+  rotate: false
+  xy: 2, 130
+  size: 282, 425
+  orig: 284, 427
+  offset: 1, 1
+  index: -1
+stamercache
+  rotate: false
+  xy: 2, 557
+  size: 471, 465
+  orig: 473, 467
+  offset: 1, 1
+  index: -1

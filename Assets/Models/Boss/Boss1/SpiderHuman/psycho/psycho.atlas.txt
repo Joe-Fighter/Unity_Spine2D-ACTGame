@@ -1,0 +1,111 @@
+
+psycho.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/human/psycho/1
+  rotate: false
+  xy: 736, 218
+  size: 71, 71
+  orig: 305, 331
+  offset: 120, 137
+  index: -1
+images/human/psycho/10
+  rotate: false
+  xy: 2, 2
+  size: 163, 143
+  orig: 305, 331
+  offset: 63, 106
+  index: -1
+images/human/psycho/11
+  rotate: false
+  xy: 2, 319
+  size: 194, 170
+  orig: 305, 331
+  offset: 48, 93
+  index: -1
+images/human/psycho/12
+  rotate: false
+  xy: 198, 316
+  size: 188, 173
+  orig: 305, 331
+  offset: 54, 85
+  index: -1
+images/human/psycho/13
+  rotate: false
+  xy: 2, 147
+  size: 194, 170
+  orig: 305, 331
+  offset: 48, 88
+  index: -1
+images/human/psycho/14
+  rotate: false
+  xy: 198, 149
+  size: 183, 165
+  orig: 305, 331
+  offset: 54, 88
+  index: -1
+images/human/psycho/15
+  rotate: false
+  xy: 388, 320
+  size: 184, 169
+  orig: 305, 331
+  offset: 53, 85
+  index: -1
+images/human/psycho/2
+  rotate: false
+  xy: 736, 291
+  size: 71, 73
+  orig: 305, 331
+  offset: 117, 151
+  index: -1
+images/human/psycho/3
+  rotate: false
+  xy: 659, 271
+  size: 75, 76
+  orig: 305, 331
+  offset: 108, 143
+  index: -1
+images/human/psycho/4
+  rotate: false
+  xy: 574, 264
+  size: 83, 83
+  orig: 305, 331
+  offset: 108, 140
+  index: -1
+images/human/psycho/5
+  rotate: true
+  xy: 279, 40
+  size: 107, 106
+  orig: 305, 331
+  offset: 96, 129
+  index: -1
+images/human/psycho/6
+  rotate: false
+  xy: 167, 31
+  size: 110, 114
+  orig: 305, 331
+  offset: 94, 123
+  index: -1
+images/human/psycho/7
+  rotate: false
+  xy: 880, 365
+  size: 129, 124
+  orig: 305, 331
+  offset: 84, 118
+  index: -1
+images/human/psycho/8
+  rotate: false
+  xy: 736, 366
+  size: 142, 123
+  orig: 305, 331
+  offset: 71, 119
+  index: -1
+images/human/psycho/9
+  rotate: false
+  xy: 574, 349
+  size: 160, 140
+  orig: 305, 331
+  offset: 66, 107
+  index: -1

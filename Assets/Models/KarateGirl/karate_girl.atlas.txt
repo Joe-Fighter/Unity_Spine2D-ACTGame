@@ -1,0 +1,384 @@
+
+karate_girl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1_L
+  rotate: false
+  xy: 661, 223
+  size: 67, 103
+  orig: 69, 105
+  offset: 1, 1
+  index: -1
+arm2_L
+  rotate: false
+  xy: 943, 347
+  size: 79, 109
+  orig: 81, 111
+  offset: 1, 1
+  index: -1
+attack1/body
+  rotate: false
+  xy: 2, 261
+  size: 217, 226
+  orig: 219, 228
+  offset: 1, 1
+  index: -1
+attack1/daobing
+  rotate: false
+  xy: 703, 151
+  size: 46, 70
+  orig: 48, 72
+  offset: 1, 1
+  index: -1
+attack1/daohu
+  rotate: false
+  xy: 293, 5
+  size: 70, 37
+  orig: 72, 39
+  offset: 1, 1
+  index: -1
+attack1/daoshen
+  rotate: true
+  xy: 819, 379
+  size: 77, 122
+  orig: 79, 124
+  offset: 1, 1
+  index: -1
+attack1/hand_L
+  rotate: true
+  xy: 237, 2
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+attack1/hand_R
+  rotate: true
+  xy: 894, 246
+  size: 42, 33
+  orig: 44, 35
+  offset: 1, 1
+  index: -1
+attack1/head
+  rotate: false
+  xy: 845, 729
+  size: 138, 143
+  orig: 140, 145
+  offset: 1, 1
+  index: -1
+attack1/hear_front
+  rotate: false
+  xy: 589, 465
+  size: 141, 117
+  orig: 143, 119
+  offset: 1, 1
+  index: -1
+attack2/arm2_L
+  rotate: true
+  xy: 819, 290
+  size: 87, 109
+  orig: 89, 111
+  offset: 1, 1
+  index: -1
+attack2/hand_L
+  rotate: true
+  xy: 803, 112
+  size: 41, 44
+  orig: 43, 46
+  offset: 1, 1
+  index: -1
+attack2/head
+  rotate: true
+  xy: 692, 594
+  size: 135, 149
+  orig: 137, 151
+  offset: 1, 1
+  index: -1
+attack2/hear_front
+  rotate: false
+  xy: 249, 170
+  size: 154, 124
+  orig: 156, 126
+  offset: 1, 1
+  index: -1
+attack2/xiu_L
+  rotate: true
+  xy: 809, 155
+  size: 55, 58
+  orig: 57, 60
+  offset: 1, 1
+  index: -1
+black_reborn
+  rotate: false
+  xy: 444, 901
+  size: 260, 121
+  orig: 262, 123
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 502, 707
+  size: 155, 192
+  orig: 157, 194
+  offset: 1, 1
+  index: -1
+face/face_2
+  rotate: true
+  xy: 108, 2
+  size: 48, 73
+  orig: 50, 75
+  offset: 0, 1
+  index: -1
+foot_L
+  rotate: false
+  xy: 953, 876
+  size: 52, 64
+  orig: 54, 75
+  offset: 1, 1
+  index: -1
+foot_R
+  rotate: true
+  xy: 973, 513
+  size: 81, 49
+  orig: 83, 51
+  offset: 1, 1
+  index: -1
+front/body
+  rotate: false
+  xy: 2, 63
+  size: 161, 196
+  orig: 163, 198
+  offset: 1, 1
+  index: -1
+front/head
+  rotate: false
+  xy: 440, 321
+  size: 117, 142
+  orig: 119, 144
+  offset: 1, 1
+  index: -1
+front/neck
+  rotate: false
+  xy: 930, 245
+  size: 84, 100
+  orig: 86, 102
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: true
+  xy: 869, 156
+  size: 54, 47
+  orig: 56, 49
+  offset: 1, 1
+  index: -1
+hand_R/hand_R1
+  rotate: false
+  xy: 751, 130
+  size: 50, 38
+  orig: 52, 40
+  offset: 1, 1
+  index: -1
+head2
+  rotate: true
+  xy: 843, 596
+  size: 131, 135
+  orig: 133, 137
+  offset: 1, 1
+  index: -1
+hear_behind1
+  rotate: false
+  xy: 706, 942
+  size: 283, 80
+  orig: 285, 82
+  offset: 1, 1
+  index: -1
+hear_front
+  rotate: true
+  xy: 732, 459
+  size: 133, 116
+  orig: 135, 118
+  offset: 1, 1
+  index: -1
+hear_front_kazari
+  rotate: true
+  xy: 706, 874
+  size: 66, 245
+  orig: 68, 247
+  offset: 1, 1
+  index: -1
+hear_item2
+  rotate: true
+  xy: 444, 589
+  size: 310, 56
+  orig: 312, 58
+  offset: 1, 1
+  index: -1
+hear_kazari_center
+  rotate: false
+  xy: 816, 212
+  size: 76, 76
+  orig: 78, 78
+  offset: 1, 1
+  index: -1
+karate_girl_defence
+  rotate: false
+  xy: 2, 489
+  size: 440, 533
+  orig: 448, 602
+  offset: 0, 0
+  index: -1
+leg1_L
+  rotate: false
+  xy: 165, 52
+  size: 82, 207
+  orig: 84, 209
+  offset: 1, 1
+  index: -1
+leg1_R
+  rotate: false
+  xy: 659, 731
+  size: 184, 141
+  orig: 186, 143
+  offset: 1, 1
+  index: -1
+leg2_L
+  rotate: false
+  xy: 385, 296
+  size: 53, 191
+  orig: 55, 193
+  offset: 1, 1
+  index: -1
+leg2_R
+  rotate: true
+  xy: 249, 44
+  size: 124, 144
+  orig: 126, 146
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 684, 336
+  size: 133, 121
+  orig: 135, 123
+  offset: 1, 1
+  index: -1
+run/arm2_R
+  rotate: false
+  xy: 469, 216
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+run/body
+  rotate: false
+  xy: 221, 296
+  size: 162, 191
+  orig: 164, 193
+  offset: 1, 1
+  index: -1
+run/hand_L
+  rotate: true
+  xy: 183, 2
+  size: 48, 52
+  orig: 50, 54
+  offset: 1, 1
+  index: -1
+run/hand_R
+  rotate: false
+  xy: 405, 142
+  size: 44, 43
+  orig: 46, 45
+  offset: 1, 1
+  index: -1
+run/head
+  rotate: false
+  xy: 559, 328
+  size: 123, 135
+  orig: 125, 137
+  offset: 1, 1
+  index: -1
+run/hear_front
+  rotate: true
+  xy: 730, 233
+  size: 101, 84
+  orig: 103, 86
+  offset: 1, 1
+  index: -1
+run/neck1
+  rotate: false
+  xy: 502, 584
+  size: 188, 121
+  orig: 190, 123
+  offset: 1, 1
+  index: -1
+run/neck2
+  rotate: false
+  xy: 2, 25
+  size: 104, 36
+  orig: 106, 38
+  offset: 1, 1
+  index: -1
+standby/arm2_L
+  rotate: false
+  xy: 561, 167
+  size: 71, 58
+  orig: 73, 60
+  offset: 1, 1
+  index: -1
+standby/arm2_R
+  rotate: false
+  xy: 405, 187
+  size: 62, 107
+  orig: 64, 109
+  offset: 1, 1
+  index: -1
+standby/hand_L
+  rotate: false
+  xy: 973, 464
+  size: 49, 47
+  orig: 51, 49
+  offset: 1, 1
+  index: -1
+standby/hand_R
+  rotate: false
+  xy: 751, 170
+  size: 56, 61
+  orig: 58, 63
+  offset: 1, 1
+  index: -1
+standby/head
+  rotate: false
+  xy: 850, 458
+  size: 121, 136
+  orig: 123, 138
+  offset: 1, 1
+  index: -1
+standby/hear_front
+  rotate: false
+  xy: 444, 465
+  size: 143, 117
+  orig: 145, 119
+  offset: 1, 1
+  index: -1
+standby/neck1
+  rotate: false
+  xy: 561, 227
+  size: 98, 99
+  orig: 100, 101
+  offset: 1, 1
+  index: -1
+standby/neck2
+  rotate: true
+  xy: 634, 167
+  size: 54, 67
+  orig: 56, 69
+  offset: 1, 1
+  index: -1
+xiu_L
+  rotate: false
+  xy: 469, 151
+  size: 73, 63
+  orig: 75, 65
+  offset: 1, 1
+  index: -1
